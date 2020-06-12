@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386721621884",
+    "firebase_url": "https://testing-5b25c.firebaseio.com",
+    "project_id": "testing-5b25c",
+    "storage_bucket": "testing-5b25c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386721621884:android:0d625db4a94637c463e6f9",
+        "android_client_info": {
+          "package_name": "com.keelim.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386721621884-0lus37qgbc95upkumhcmp6plmvdmc0l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhfIBOVsYiCoK-GCE5e2OfxlFb4zdeWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386721621884-0lus37qgbc95upkumhcmp6plmvdmc0l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
